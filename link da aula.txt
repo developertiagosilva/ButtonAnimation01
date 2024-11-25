@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=fDm0WJ_66d0&t=1s&ab_channel=DarkCode
+
+https://fontawesome.com/kits/b7c9c1d817/setup?created=yes&hosting=hosted
+
+código awesome font
+
+<script src="https://kit.fontawesome.com/b7c9c1d817.js" crossorigin="anonymous"></script>
+
